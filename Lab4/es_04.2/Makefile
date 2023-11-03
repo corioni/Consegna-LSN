@@ -7,5 +7,7 @@ MD_MC.o : MD_MC.cpp
 	$(CC) -c MD_MC.cpp -o MD_MC.o $(CFLAGS)
 random.o : random.cpp random.h
 	$(CC) -c random.cpp -o random.o $(CFLAGS)
+run : 
+	./NVE_NVT.exe
 clean :
 	rm *.o NVE_NVT.exe
