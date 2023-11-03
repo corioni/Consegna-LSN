@@ -1,0 +1,9 @@
+1000
+500
+23
+20
+
+#  ReadInput >> N_pop;
+#  ReadInput >> N_epoch;
+#  ReadInput >> N_migr; # 23 for 20 migrations or 500 for 0 migrations
+#  ReadInput >> N_send; # < N_pop/N_processes

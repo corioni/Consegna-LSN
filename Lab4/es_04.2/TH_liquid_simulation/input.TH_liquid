@@ -1,0 +1,21 @@
+0
+0
+1.972
+108
+0.8
+2.5
+0.0005
+8000
+1
+0
+
+  ReadInput >> iNVET;
+  ReadInput >> restart;
+  ReadInput >> temp;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> th_steps;
