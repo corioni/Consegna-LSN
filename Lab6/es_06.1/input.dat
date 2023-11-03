@@ -1,0 +1,17 @@
+2.0
+50
+1.0
+0.02
+1
+30
+100000
+100000
+
+  ReadInput >> temp;
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> t_step
